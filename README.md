@@ -1,2 +1,2 @@
 # VB-Script
-VB Script codes
+VB Script programs
